@@ -1,6 +1,6 @@
 {
     "name": "Meteo by Cyberparra",
-    "short_name": "meteo",
+    "short_name": "CyberMeteo",
     "start_url": "https://www.adrianoparracciani.it/METEOWEB/index.html",
     "display": "standalone",
     "background_color": "#ffffff",

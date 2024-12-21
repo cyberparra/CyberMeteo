@@ -1,8 +1,9 @@
-const CACHE_NAME = 'my-pwa-cache-v1';
+const CACHE_NAME = 'CyberMeteo-v1';
 const urlsToCache = [
     '/',
     '/index.html',
-    '/pagina2.html',
+    '/3h.html',
+    '/astro.html',
     '/manifest.json',
     '/icon-192x192.png',
     '/icon-512x512.png'
