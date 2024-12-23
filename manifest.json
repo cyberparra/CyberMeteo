@@ -1,7 +1,8 @@
 {
     "name": "Meteo by Cyberparra",
     "short_name": "CyberMeteo",
-    "start_url": "https://www.adrianoparracciani.it/METEOWEB/index.html",
+    "description": "Meteo WebApp with meteoblue API.",
+    "start_url": "/METEOWEB/index.html",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#333333",
@@ -16,5 +17,22 @@
             "sizes": "512x512",
             "type": "image/png"
         }
+    ],
+    "screenshots": [
+      {
+        "src": "daily.png",
+        "sizes": "320x419",
+        "type": "image/png",
+        "form_factor": "wide",
+        "label": "Home page su dispositivo mobile"
+      },
+
+      {
+        "src": "daily.png",
+        "sizes": "320x419",
+        "type": "image/png",
+        "form_factor": "narrow",
+        "label": "Home page su dispositivo mobile"
+      }
     ]
 }
